@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --primary:#1A1A1D;
+    --secondary: #3B1C32;
+    --light:#6A1E55;
+    --extraLight: #A64D79;
+}
+
+body{
+    background-color: var(--primary);
+    color: var(--extraLight);
+}
+.text-xxs {
+    font-size: 0.525rem; /* 10px */
+  }
