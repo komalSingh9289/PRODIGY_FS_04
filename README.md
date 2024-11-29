@@ -38,8 +38,12 @@ A real-time chat application built with **MERN Stack** , allowing users to send 
 ### Screenshots
 
 ![Screenshot (147)](https://github.com/user-attachments/assets/c0bf2ed6-af5a-454c-b53e-0211bffcacb5)
+
 ![Screenshot (148)](https://github.com/user-attachments/assets/7c5b898d-730e-41c4-b4e9-7ba1d388968d)
+
 ![Screenshot (150)](https://github.com/user-attachments/assets/3fb64c4a-a032-4fc7-8be7-b70a5064b3af)
+
+![Screenshot (153)](https://github.com/user-attachments/assets/2b16bd70-921c-420e-b9ee-9f6fee2375bc)
 
 
 
